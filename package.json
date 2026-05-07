@@ -1,0 +1,18 @@
+{
+  "name": "emo-trainer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trainer.js",
+  "scripts": {
+    "lint": "eslint trainer.js",
+    "lint:fix": "eslint trainer.js --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@stylistic/eslint-plugin": "^5.10.0",
+    "eslint": "^10.3.0"
+  }
+}
